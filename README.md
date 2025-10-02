@@ -78,6 +78,15 @@ The project is organized into two packages:
 - `User` stores the uploaded photo as a `File` object for potential future use (e.g., saving or editing).
 
 ---
+## Screenshot
+The Screenshot folder contains visual references of the application’s interface and functionality. These images demonstrate different stages of using the User Profile GUI Application, including form input, validation, and the profile display popup.
+File Naming Convention: Each screenshot is automatically named with a timestamp (e.g., Screenshot 2025-10-02 at 10.12.35 AM.png).
+Content:
+Application startup window
+User input form
+Profile creation and validation steps
+Popup window showing profile details and uploaded photo
+These screenshots serve as a guide for understanding how the application looks and behaves during execution.
 
 ## Author
 - Oseme Edeoghon
